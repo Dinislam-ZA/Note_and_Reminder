@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Note_Application_Neko_ru</string>
+    <string name="Note_title">Title</string>
+    <string name="Description">Description</string>
+    <string name="IOTitleAndDescValid">Both Title and Description must not be empty!</string>
+    <string name="saved">Saved!</string>
+</resources>
