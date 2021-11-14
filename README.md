@@ -33,3 +33,5 @@
 
 ---
 
+![alt text](https://github.com/Dinislam-ZA/Note_and_Reminder_app/blob/main/imgs/App_Images.png)
+
